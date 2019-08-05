@@ -5,11 +5,17 @@
   "dependencies": {
     "@types/jest": "24.0.11",
     "@types/node": "11.13.4",
-    "@types/react": "16.8.13",
+    "@types/react": "^16.8.13",
     "@types/react-dom": "16.8.4",
+    "@types/react-json-tree": "^0.6.11",
+    "@types/request": "^2.48.1",
+    "@types/request-promise-native": "^1.0.16",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-json-tree": "^0.11.2",
     "react-scripts": "2.1.8",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
     "typescript": "3.4.3"
   },
   "scripts": {
