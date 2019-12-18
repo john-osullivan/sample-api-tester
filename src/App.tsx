@@ -8,7 +8,7 @@ interface AppProps {
 
 }
 
-
+console.log('Minor change in App.tsx');
 
 function inputSetterFactory(setter: React.Dispatch<React.SetStateAction<any>>) {
   return (e: React.ChangeEvent<HTMLInputElement>) => { setter(e.currentTarget.value) }
