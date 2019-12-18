@@ -51,6 +51,7 @@ const App: FC<AppProps> = (props) => {
   }
 
   async function sendCall() {
+    console.log('Made call');
     let newResult;
     try {
       let requestParams = getRequestParams();
