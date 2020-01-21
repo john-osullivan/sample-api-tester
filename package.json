@@ -2,7 +2,7 @@
   "name": "sample-cra-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "Incorrect Value",
   "dependencies": {
     "eslint-utils": "^2.0.0",
     "handlebars": "^4.5.3",
